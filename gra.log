@@ -1,0 +1,1 @@
+{"level":"INFO","ts":"2020-01-24T12:27:45.440+0530","caller":"gra/main.go:14","msg":"NewLogger Done! : map[init:true]"}
